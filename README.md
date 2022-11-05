@@ -6,7 +6,7 @@ This repository replaced the previous <div> HTML tags with semantic HTML tags an
 
 ## Usage
 
-* Please click on the following link of the deployed website, remember to use Google Chrome to see Developer Tools: [TBA]
+* Please click on the following link of the deployed website, remember to use Google Chrome to see Developer Tools: https://leeclaire156.github.io/GWU_HW1_Horiseon-SEO-Accessibility/
 
 * Right-click anywhere on the page and select 'Inspect' to view HTML and CSS files.
 
