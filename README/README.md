@@ -16,8 +16,9 @@ MacOS Users: Command + Option + C
 
 Windows Users: Control + Shift + C
 
-* To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![Screenshot of Google Chrome Developer Tool inspecting Horiseon website's HTML and CSS code](../Assets/README-Usage-Screenshot.png "Inspect Horiseon Screenshot")
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+## Credits
+
+Credit for tutorial on linking screenshot image to README file goes to 
+https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
